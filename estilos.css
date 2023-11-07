@@ -1,0 +1,8 @@
+#footer {
+    position: absolute;
+
+       /* altura do rodapé */
+  }
+ nav ul :hover{ color:blue}
+ li{ color: aqua;}
+ nav ul :active{ background-color: darkgrey;}
